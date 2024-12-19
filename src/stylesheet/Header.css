@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+    background: linear-gradient(to right, #4caf50, #2e7d32);
+    color: white;
+    padding: 100px 0;
+  }
+  
+  .header .highlight {
+    color: #ffeb3b;
+  }
+  
